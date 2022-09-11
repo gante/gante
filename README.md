@@ -7,10 +7,10 @@ I have a PhD in ML applied to 5G signals 📡, and I've applied ML to several mo
 Here are a few interesting open projects and publications I've been part of, by industry:
 
 🤖 Machine Learning
-1. Hugging Face 🤗  
+1. [Hugging Face](https://huggingface.co/) 🤗  
   1.1. 100x faster TensorFlow text generation with XLA ([blog post](https://huggingface.co/blog/tf-xla-generate), [twitter thread](https://twitter.com/joao_gante/status/1555527603716444160));  
   1.2. PT ➡️ TF safe weight conversion CLI ([twitter thread](https://twitter.com/joao_gante/status/1540350265890684930));  
-  1.3. ...and many others. A repo with helpful notebooks can be found [here](https://github.com/gante/huggingface-demos).
+  1.3. ...and many others. A repo with personal notebooks can be found [here](https://github.com/gante/huggingface-demos).
 
 🏗 Construction
 1. [nPlan](https://www.nplan.io/)  
@@ -26,4 +26,4 @@ Here are a few interesting open projects and publications I've been part of, by 
   2.3 Using [Monte Carlo Dropout](https://arxiv.org/abs/1506.02142v6) to estimate the uncertainty of the position predictions from 2.2. ([paper](https://ieeexplore.ieee.org/abstract/document/9626568), [code](https://github.com/gante/mmWave-localization-learning)).
 
 
-Feel free to reach out to me using the contacts on the GitHub profile.
+Feel free to reach out using the contacts on this profile.
