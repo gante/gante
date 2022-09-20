@@ -1,12 +1,13 @@
 <!-- Must be saved without formatting, i.e. CMD+K -> S -->
 ### Hello there 👋
 
-I'm currently a member of the OS team at Hugging Face 🤗, working mainly with text generation and TensorFlow.
-I have a PhD in ML applied to 5G signals 📡, and I've applied ML to several modalities and industries.
+Hi there! 👋
+
+I'm currently a member of the OS team at Hugging Face 🤗, working mainly with text generation (PT/TF/JAX) and TensorFlow. I have a PhD in ML applied to 5G signals 📡 and 5 years of experience in the industry. I've applied ML to several modalities (text, image, graphs, time-based signals) and industries (telecom, construction, software).
 
 Here are a few interesting open projects and publications I've been part of, by industry:
 
-🤖 Machine Learning
+🤖 Software
 1. [Hugging Face](https://huggingface.co/) 🤗  
   1.1. 100x faster TensorFlow text generation with XLA ([blog post](https://huggingface.co/blog/tf-xla-generate), [twitter thread](https://twitter.com/joao_gante/status/1555527603716444160));  
   1.2. PT ➡️ TF safe weight conversion CLI ([twitter thread](https://twitter.com/joao_gante/status/1540350265890684930));  
