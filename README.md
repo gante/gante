@@ -9,7 +9,7 @@ Here are a few interesting open projects and publications I've been part of, by 
 1. [Hugging Face](https://huggingface.co/) 🤗  
   1.1. 100x faster TensorFlow text generation with XLA ([blog post](https://huggingface.co/blog/tf-xla-generate), [twitter thread](https://twitter.com/joao_gante/status/1555527603716444160), [TensorFlow blog](https://blog.tensorflow.org/2022/11/how-hugging-face-improved-text-generation-performance-with-xla.html));  
   1.2. PT ➡️ TF safe weight conversion CLI ([twitter thread](https://twitter.com/joao_gante/status/1540350265890684930));
-  1.3. Assisted Generation ([blog post](https://huggingface.co/blog/assisted-generation), [twitter thread](https://twitter.com/joao_gante/status/1656697682646429696))
+  1.3. Assisted Generation ([blog post](https://huggingface.co/blog/assisted-generation), [twitter thread](https://twitter.com/joao_gante/status/1656697682646429696));
   1.4. ...and many others. A repo with personal notebooks can be found [here](https://github.com/gante/huggingface-demos).
 
 🏗 Construction
