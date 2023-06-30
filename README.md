@@ -1,7 +1,7 @@
 <!-- Must be saved without formatting, i.e. CMD+K -> S -->
 ### Hello there 👋
 
-I'm a member of the OS team at Hugging Face 🤗, expanding what's possible with text generation (PT/TF/JAX). I have a PhD in ML applied to 5G signal processing 📡 and I've applied ML to several modalities (text, image, graphs, time-based signals) and industries (telecom, construction, software).
+I'm a member of the `transformers` team at Hugging Face 🤗, expanding what's possible with text generation (PT/TF/JAX). I have a PhD in ML applied to 5G signal processing 📡 and I've applied ML to several modalities (text, image, graphs, time-based signals) and industries (telecom, construction, software).
 
 Here are a few interesting open projects and publications I've been part of, by industry:
 
